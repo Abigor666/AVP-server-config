@@ -1,3 +1,3 @@
-# AVP-server-config
-Alines vs Predator 2010 server config example
+# Example of config for Aliens Vs Predator 2019 server
+
 Put this file to your server root directory and run your server.
